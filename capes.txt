@@ -1,4 +1,4 @@
 {
 "kadeusz": "BlackCape", "cb",
-"Steave": "BlackCape"
+"Steave": "BlackCape",
 }
