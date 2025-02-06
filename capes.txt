@@ -1,5 +1,5 @@
 {
-  "kadeusz": ["BlackCape", "cb"],
+  "kadeusz": ["BlackCape", "cb", "cb_classic_gold", "cb_glow", "cb_gold", "cb_grey", "cb_red"],
   "Steave": ["BlackCape"]
 }
 
